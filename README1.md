@@ -1,6 +1,6 @@
 # 🔐 Hardware Trojan Detection Platform
 
-**IIT Kanpur Hardware Security Bootcamp 2026**
+
 
 An advanced platform for detecting hardware trojans in Verilog RTL designs using hybrid Graph Neural Networks (GNN) and statistical analysis.
 
